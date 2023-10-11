@@ -1,0 +1,11 @@
+LICENSE
+
+The R package unSuper uses the R-packages listed below together with their licenses:
+
+cluster: https://cran.r-project.org/web/licenses/GPL-2, https://cran.r-project.org/web/licenses/GPL-3
+fastICA: https://cran.r-project.org/web/licenses/GPL-2, https://cran.r-project.org/web/licenses/GPL-3
+Rtsne: https://cran.r-project.org/web/packages/Rtsne/LICENSE
+uwot: https://cran.r-project.org/web/licenses/GPL-3
+vegan: https://cran.r-project.org/web/licenses/GPL-2
+
+The aforementioned licenses apply to the R package unSuper.
