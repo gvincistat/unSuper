@@ -8,4 +8,4 @@ Rtsne: https://cran.r-project.org/web/packages/Rtsne/LICENSE
 uwot: https://cran.r-project.org/web/licenses/GPL-3
 vegan: https://cran.r-project.org/web/licenses/GPL-2
 
-The aforementioned licenses apply to the R package unSuper.
+The aforementioned licenses also apply to the R package unSuper.
